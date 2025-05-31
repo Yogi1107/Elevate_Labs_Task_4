@@ -1,2 +1,28 @@
-# Elevate_Labs_Task_4
-An interactive sales dashboard built using Excel 2007, with KPIs like total sales, category trends, monthly performance, and customer insights. Includes slicers, clean visuals, and a PowerPoint summary. Data cleaned using Python.
+# Sales Dashboard (Excel 2007 Compatible)
+
+An interactive sales dashboard built using **Microsoft Excel 2007**, showcasing insights from a cleaned sales dataset. The dashboard includes KPIs, time-series analysis, category-wise and country-wise performance, and top customer insights.
+
+---
+
+##  Features
+-  Total Sales, Monthly Trends, and Growth Metrics
+-  Slicers for interactivity (Year, Product Line, Country, Customer)
+-  Time-based insights (Monthly Sales)
+-  Sales by Country & Product Category
+-  Top Customer Sales
+-  Clean and consistent visual design
+-  Data cleaned using Python (Pandas)
+
+---
+
+##  Files Included
+- `sales_data_sample.csv` – Original dataset
+- `cleaned_sales_data.csv` – Cleaned version of the dataset
+- `Sales_Dashboard_Summary.pptx` – PowerPoint project summary
+- `dashboard_excel_file.xlsx` – Final Excel dashboard (to be added)
+- `data_cleaning_script.py` – Python script for preprocessing
+
+---
+
+##  Outcome
+Empowers business stakeholders to explore sales performance and make informed decisions using Excel-based visualizations.
