@@ -18,9 +18,9 @@ An interactive sales dashboard built using **Microsoft Excel 2007**, showcasing 
 ##  Files Included
 - `sales_data_sample.csv` – Original dataset
 - `cleaned_sales_data.csv` – Cleaned version of the dataset
+- `Dashboard_Sales.pdf` - Dashboard pdf
 - `Sales_Dashboard_Summary.pptx` – PowerPoint project summary
-- `dashboard_excel_file.xlsx` – Final Excel dashboard (to be added)
-- `data_cleaning_script.py` – Python script for preprocessing
+- `task_4.py` – Python script for preprocessing
 
 ---
 
